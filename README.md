@@ -30,5 +30,10 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/agarwalprashasti/data-structures-algorithms/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/agarwalprashasti/data-structures-algorithms/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/agarwalprashasti/data-structures-algorithms/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
